@@ -1,0 +1,5 @@
+username: <your-email>@gmail.com
+password: <your password>
+smtp-port: 465
+smtp-server: smtp.gmail.com
+display-name: test
